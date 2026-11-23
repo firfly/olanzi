@@ -17,7 +17,7 @@ configurations. They do not represent a connected device or hardware verificatio
 
 ## Features
 
-### A VIA-style configuration interface 
+### A VIA-style configuration interface
 
 If you use QMK/VIA keyboards, the layout will feel familiar: a visual device,
 clickable keycaps, action categories, and a layer selector. Select a control
